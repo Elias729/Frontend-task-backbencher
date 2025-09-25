@@ -52,7 +52,7 @@
 /** Hero Section Styles **/
 
 .hero {
-    background-image: url('../Assets/a767e62dcfb7ee9c9c7250ab93e512a6f363b4da.png');
+    background-image: url('../Assets/hero-img.png');
     background-size: cover;
     background-position: center;
     height: 720px;
